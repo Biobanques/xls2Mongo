@@ -1,0 +1,9 @@
+#Used to create credendials to mongoDB
+login 
+dbConnection 
+password 
+
+#used to connect
+server 
+port 
+dbName 
